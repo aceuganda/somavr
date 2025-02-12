@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Others/IDITest.unity
+    guid: 3083341991cb80e45bac85c9fda971b3
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/StartingScenes/Others/VastMenu_Controller.unity
+    guid: ddbc556b4a8beaa45ae0a1a3dac125cb
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/CLINICAL_CARE.unity
+    guid: f47b72eb35fc497468b6a7b501ab12ca
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/GLOVING_AND_DEGLOVING.unity
+    guid: afc506d5f21aa7f4c8cdba0ed7291524
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/DNDF_MASK.unity
+    guid: 7c6051897e497ae41b1f8fe2f8c4fa75
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/HAND_WASH.unity
+    guid: df75bb3e0695c0141b848bc2de824803
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/DN_GOWN.unity
+    guid: 4c4b13010c3649e46b59b01c1dbb84c1
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/DF_GOWN.unity
+    guid: ebe89ac8ebd89ad4aa48fa06e1667c22
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/DN_COVERALL.unity
+    guid: 68690c38f683852429ab49d2f01d4c22
+  - enabled: 0
+    path: Assets/Interactive360/Scenes/VideoScenes/Others/Position.unity
+    guid: 3c0b4163dc9c8ac41896bd8e537ec39d
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Others/SkinIncision.unity
+    guid: cb33dd26f510b38429f5a1f361f87011
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/DF_COVERALL.unity
+    guid: 87ffbf06c7a199b4b8c7701593cb0da1
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/HAND_RUB.unity
+    guid: 5382ce21a4e1b4b4e9c38abe9f10eb38
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/StartingScenes/MainMenu_Controller.unity
+    guid: e965b968d7e3c3d4995f3e70a8eb0770
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 32640b3e639a7a94b848acbcf7345ea7,
+      type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: cd7515ae48c038540bbdfd6cbf6b423f,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2b99ea683301b564292f4506d3523131,
+      type: 2}

@@ -1,0 +1,17 @@
+Build
+Library
+Temp
+Logs
+.vs/
+.vscode/
+# Platform-specific plugins
+Assets/Interactive360/Plugins/**/*.a
+Assets/Interactive360/Plugins/**/*.so
+Assets/Interactive360/Plugins/**/*.dll
+Assets/Interactive360/Plugins/GoogleVR/Plugins/**/*.a
+Assets/Interactive360/Plugins/GoogleVR/Plugins/**/*.so
+Assets/Interactive360/Plugins/GoogleVR/Plugins/**/*.dll
+Assets/Interactive360/Render Models/OculusTouch/Models/L_controller_DIF.TGA
+Assets/Interactive360/Render Models/OculusTouch/Models/R_controller_DIF.TGA
+# Keep meta files
+!*.*.meta
