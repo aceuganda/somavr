@@ -35,7 +35,7 @@ For other VR platforms, please install the appropriate SDK:
 Due to file size limitations and ethical considerations, the training videos used in the COVID-19 IPC and surgical training projects are not included in this repository. To add your own videos:
 
 1. Navigate to `/Assets/Interactive360/Videos/`
-2. Add your 360-degree video files (supported formats: .mp4, .mov)
+2. Add your 360-degree video files (supported formats: .mp4, .mov) Here is an example of one the 360 videos that we used(https://drive.google.com/file/d/1O6v09u_h4Sml4lpK1aFM2iKeBcvPIB_P/view?usp=sharing)
 3. Ensure videos are encoded with:
    - H.264 codec
    - Equirectangular projection
